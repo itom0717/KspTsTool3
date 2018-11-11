@@ -5,12 +5,12 @@ using System.Runtime.InteropServices;
 // アセンブリに関する一般情報は以下の属性セットをとおして制御されます。
 // アセンブリに関連付けられている情報を変更するには、
 // これらの属性値を変更してください。
-[assembly: AssemblyTitle("KspTsTool3")]
-[assembly: AssemblyDescription("")]
+[assembly: AssemblyTitle("KspTsTool")]
+[assembly: AssemblyDescription("Kerbal Space Program 翻訳支援プログラム")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("KspTsTool3")]
-[assembly: AssemblyCopyright("Copyright ©  2018")]
+[assembly: AssemblyProduct("Kerbal Space Program Translation Support Tool")]
+[assembly: AssemblyCopyright("© 2018 itom0717")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
